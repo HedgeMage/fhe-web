@@ -1,3 +1,34 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://freehold.earth/"
+languageCode = "en-us"
+title = "Freehold Earth"
+theme = "notrack"
+newContentEditor = "atom"
+mainSections = ["blog"]
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+  author = "Anonymous"
+  siteHeading = "Freehold Earth" # defaults to author
+  showBlogLatest = true
+  mainSections = ["blog"]
+  showTaxonomyLinks = false
+  nBlogLatest = 4 # number of blog post om the home page
+  blogLatestHeading = "A Few Thoughts..."
+
+#  [params.social]
+#    github = "example"
+#    linkedin = "example"
+#    email = "example@example.com"
+#    mastodon = "example"
+#    medium = "example"
+#    keybase = "example"
+
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug"
