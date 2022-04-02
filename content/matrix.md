@@ -22,7 +22,7 @@ menu:
 
 5. In the end, this server is a hobby project.  No uptime or security promises are made, and your operational security is your own responsibility.
 
-6. Local and federated users are encouraged to join #general:freehold.earth to receive server news and reach operators in the event of any problem.
+6. Local and federated users are encouraged to join `#freehold.earth:freehold.earth` to receive server news and reach operators in the event of any problem.
 
 7. When in doubt, be nice.  When free from doubt, be as nice as you can manage anyway.
 
@@ -38,4 +38,4 @@ menu:
 
 ## Other questions?
 
-Check out our [FAQ](/faq), or come to `#general:freehold.earth` to ask a real human.
+Check out our [FAQ](/faq), or come to `#freehold.earth:freehold.earth` to ask a real human.

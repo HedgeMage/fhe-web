@@ -29,8 +29,8 @@ Remember that privacy thing?  It's okay if you need a reminder.  Scroll up.  I'l
 
 Okay, now that we've made that clear... the server admins are anonym-ish.  At least one of us is find-able in case of issues, but we don't want this place to be a statement about us.  It's a gift to our users.
 
-In case you need to reach the admins, you can always find them in `#general:freehold.earth`.  That's also a great place to meet other members of the Freehold Earth community.  Please keep in mind this is a hobby server, not a production service; it may take a long time for us to answer you if we've engaged in frivolous activities such as working, grocery shopping, tending to our families, or sleeping.
+In case you need to reach the admins, you can always find them in `#freehold.earth:freehold.earth`.  That's also a great place to meet other members of the Freehold Earth community.  Please keep in mind this is a hobby server, not a production service; it may take a long time for us to answer you if we've engaged in frivolous activities such as working, grocery shopping, tending to our families, or sleeping.
 
 ## What if my question wasn't answered here?
 
-Please join us in `#general:freehold.earth` where we will do our best to answer other questions.  Plan to stay a while; we're a small hobby server so it may take a while for channel members to de-idle.
+Please join us in `#freehold.earth:freehold.earth` where we will do our best to answer other questions.  Plan to stay a while; we're a small hobby server so it may take a while for channel members to de-idle.
